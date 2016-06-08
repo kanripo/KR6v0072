@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:33.140994
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:11
 #+TITLE: 金剛五禮
 #+PROPERTY: CBETA_ID W07n0059b
 #+PROPERTY: ID KR6v0072
@@ -10,7 +10,7 @@
 #+PROPERTY: LASTPB <pb:KR6v0072_W_001-0061a> 
 #+PROPERTY: JUAN 1
 
-錄文二¶
+* 錄文二¶
 ¶
 
  金剛五禮¶
